@@ -1,6 +1,6 @@
 # Finance Agent
 
-A simple finance agent workflow that processes user queries, builds a research plan, orchestrates agents, and returns a final answer.
+A simple finance agent workflow that processes user queries, builds a research plan, orchestrates agents, and returns a final answer. also supports financial document analysis.
 
 ## Setup
 
